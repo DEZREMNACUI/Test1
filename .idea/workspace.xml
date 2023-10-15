@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d05017f-09b3-4d5a-97ad-0a8498157bc0" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/ImageReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/PageReader.java" afterDir="false" />
+    <list default="true" id="5d05017f-09b3-4d5a-97ad-0a8498157bc0" name="更改" comment="作业完成">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +43,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "E:/IntelliJ IDEA 2023.2.2/projects/Test1/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,11 +56,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697338339563</updated>
-      <workItem from="1697338340638" duration="462000" />
+      <workItem from="1697338340638" duration="805000" />
     </task>
+    <task id="LOCAL-00001" summary="作业完成">
+      <option name="closed" value="true" />
+      <created>1697338834615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697338834615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="作业完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="作业完成" />
   </component>
 </project>
